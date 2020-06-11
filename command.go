@@ -1,9 +1,9 @@
 package main
 
-type CommandId int
+type commandID int
 
 const (
-	CMD_NICK CommandId =iota
+	CMD_NICK commandID = iota
 	CMD_JOIN
 	CMD_ROOMS
 	CMD_MSG
@@ -11,7 +11,7 @@ const (
 )
 
 type command struct {
-	id CommandId
+	id     commandID
 	client *client
-	args []string
+	args   []string
 }
