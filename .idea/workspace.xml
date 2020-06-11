@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="961f8b1b-66c4-4556-8ae1-165f47135e24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/client.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/command.go" beforeDir="false" afterPath="$PROJECT_DIR$/command.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/room.go" beforeDir="false" afterPath="$PROJECT_DIR$/room.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/server.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,20 +77,32 @@
       <option name="presentableId" value="Default" />
       <updated>1591907438599</updated>
     </task>
+    <task id="LOCAL-00001" summary="done!">
+      <created>1591913787987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591913787987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="done!" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <proxy>direct</proxy>
   </component>
   <component name="WindowStateProjectService">
-    <state x="406" y="11" key="CommitChangelistDialog2" timestamp="1591913758335">
+    <state x="406" y="11" key="CommitChangelistDialog2" timestamp="1591913786694">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="406" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591913758335" />
+    <state x="406" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591913786694" />
     <state x="549" y="157" key="FileChooserDialogImpl" timestamp="1591910476088">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -121,9 +127,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="181" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591912640274" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1591913690341">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1591913809722">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591913690341" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591913809722" />
   </component>
 </project>
